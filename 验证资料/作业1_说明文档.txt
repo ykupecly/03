@@ -1,0 +1,2 @@
+zhangsan，lisi
+有/demo/query的访问权限
